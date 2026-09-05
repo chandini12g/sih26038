@@ -1,0 +1,5 @@
+aptos2019-blindness-detection.zip
+*.pth
+train_images/
+test_images/
+__pycache__/
